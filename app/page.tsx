@@ -8,7 +8,7 @@ export default function Home() {
         textAlign: 'center',
       }}
     >
-      Start prompting.
+      Page d'accueil
     </div>
   );
 }
